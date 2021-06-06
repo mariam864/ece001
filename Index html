@@ -1,0 +1,71 @@
+<html>
+<html>
+<head> 
+<h2> Computer Engineering Role in COVID-19 Pandemic </h2>
+</head>
+<body>
+<h3>
+How can computer science contribute to stop the COVID-19 pandemic?
+</h3>
+<p>
+The question of how computers can contribute to controlling the COVID-19 pandemic is being posed to experts in artificial intelligence (AI) all over the world.
+AI tools can help in many different ways. They are being used to predict the spread of the coronavirus, map its genetic evolution as it transmits from human to human, speed up diagnosis, and in the development of potential treatments, while also helping policymakers cope with related issues, such as the impact on transport, food supplies and travel.
+But in all these cases, AI is only effective if it has sufficient examples to learn from. As COVID-19 has taken the world into unchartered territory, the "deep learning" systems, which computers use to acquire new capabilities, don’t necessarily have the data they need to produce useful outputs.
+</p>
+ICT information technologies proved to be very helpful in improving big data collection processes and analytics in various fields of social sciences, medical, economic, etc. ICT, Internet and Industry 4.0 information technologies helped to reduce the negative impact of the SARS-CoV-2 coronavirus pandemic ( Covid-19) on societies, economy, health care institutions, etc. These technologies have made it possible to increase the scale of digitization and Internetisation of remote communication processes as well as social, economic and other processes. Thanks to the implementation of ICT, Internet and Industry 4.0 information technologies to remote communication processes, economic processes and the improvement of analytical processes implemented in various scientific disciplines, many institutions and economic entities have managed to significantly reduce the negative effects of the Coronavirus pandemic. Thanks to the aforementioned technologies, the scale of the health, economic, social, etc. crisis caused by the SARS-CoV-2 (Covid-19) coronavirus pandemic is much smaller than it would be if these technologies did not exist. Therefore, the current fourth technological revolution has proved to be very helpful in reducing the negative impact of the SARS-CoV-2 (Covid-19) coronavirus pandemic on the functioning of people, the operation of public institutions, economic entities and entire economies. If this type of pandemic appeared, for example, in the middle of the 20th century, i.e. before the development of computer science and the third technological revolution, then the negative impact of the SARS-CoV-2 (Covid-19) coronavirus pandemic on people and entire economies would be several times higher than that recorded in 2020.
+The use of pattern recognition techniques can be helpful for localization the existing of the cells of the virus in the body for example Russia uses facial recognition to tackle Covid-19. City officials are using a giant network of tens of thousands of cameras - installed with facial recognition software. An interesting New York Times article last week posited that governments’ use of digital surveillance techniques for the COVID-19 response – such as the tracking of geolocation to gauge quarantine restrictions – would lead to more pervasive digital tracking in the future. On a related note, there have been reports of an increased use of facial recognition technologies as governments use digital tools to respond to the outbreak.
+"I believe that both Machine and Deep Learning is currently a hot topic and has attracted many people to do research in this area and find numerous and interesting use-cases. Regarding COVID-19 pandemic, classification algorithms would be useful to distinguish the affected cases from unaffected ones. This applies to regions too. Another thing is you can also predict how this classified population is varying over a period of time (over this quarantine). Very large population data sets would require the usage of deep neural networks so as to train more amount of data. Additionally, AL tools can also assist in recommending the researchers regarding the appropriate medicines for the concerned person and for the right disease (when they have their vaccines in hand and wanted to know the best one for a particular person).
+I also observe that cryptography will be an important area as this will help in securing authentic data about the details maintained in different websites such as affected, unaffected, susceptible areas, and so on. Maintaining a highly secure database will be an important step towards securing such valuable information as exploiting inaccurate data may easily jeopardize the psychology of the society, especially during such critical situations."
+"There is an event called<mark>  <u>"Network Epidemiology Online Workshop Series - Understanding and Exploring Network Epidemiology in the Time of Coronavirus"</u> </mark>currently going on in which they have invited individuals from a multitude of specialties on looking at unique ways of combating the COVID-19 issue. There are a ton of datasets that have already been shared. This is an excellent place to start. Don't be intimated by the Biological Aspects of the theme. Computer Science plays a major role in every area of the sciences."
+Natural Language Processing Parser can help in the development of interactive chat bot that can give preventive measures, symptoms, FAQs of Covid-19, Emergency contacts for all the districts, provinces or states and general toll-free number of ministry of health, live information on cases of Covid-19 patient(s), infection rate(s) and many more
+I think one can use cellular automata to design the antidote to the SARS-CoV-2!
+I have worked extensively worked on cellular automata and have worked on how to convert neural nets to "learning cellular automata" as a part of my undergraduate thesis!
+Preprint Formal verification of deep neural networks using learning c...
+So with neural nets based AI techniques on learning the virus configurations, I can always construct preliminary CAs that can do the same! Perhaps, to do even better, I can use the 4-tuple definition of cellular automata, "learn" the neighbourhood of the cell of the grid and also the transition function also. To be precise and complete, I am representing a single "genome" of the virus as a single cell of the CA! This way, I can theorise the scalable parallelisation of the learning algorithm in a much-closer-to-reality fashion! This way, I would simply need to depend a large number of simpler ALUs instead of relying on several iterations of computation upon the same (perhaps more complicated and deeper) neural ALU grid! That way, I can somehow think of converting that learning CA as a "dynamical manifold" that would prove and substantiate all or most of the Markov chain based models that are currently prevalent in the literature!
+To cut the long story short, I am suggesting a "computationally deterministic" dynamical model that can be scalable parallelised that can track/hunt down the genomic activity, which (at least I believe) lies at the heart of the antidote pathway design! (Although, I am a complete novice!)
+<a href="" >
+https://www.researchgate.net/deref/https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fengineering%2Fcomputer-aided-diagnosis
+<a href="" >
+<a href="" >
+https://www.researchgate.net/deref/http%3A%2F%2Fwww.combine.umd.edu%2Fnetwork-epidemiology%2F
+<a href="" ><a href="" >
+https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2Fajsanjoaquin%2FCOVID-19-Scanner
+<a href="" >
+<a href="" >
+https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2Fieee8023%2Fcovid-chestxray-dataset%2F
+<a href="" >
+<a href="" >
+https://www.researchgate.net/deref/https%3A%2F%2Fsciencebusiness.net%2Fcovid-19%2Fnews%2Fcomputer-science-versus-covid-19
+<a href="" >
+<img src="https://qtxasset.com/fierceelectronics/1586382114/shutterstock_782843011.jpg/shutterstock_782843011.jpg?gEQ.Pv9Ej3O2byZKv2gswEXwVp6uBHLC" alt="" style="width:500px">
+<img src="https://diversityinsteam.com/wp-content/uploads/2020/09/software-engineer-on-keyboard.jpg" alt="" style="width:500px">
+<img src="https://www.foodprocessing.com/assets/media-2020/april/Automation-Power-Lunch.png" alt="" style="width:500px">
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<address>
+مريم حسن سلامه حسن عشرى 
+893 
+سيكشن 40
+</address>
+
+
+
+<html>
